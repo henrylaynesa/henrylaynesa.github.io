@@ -21,7 +21,8 @@
 title: Henry Laynesa Jr
 email: henry.laynesa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website/blog/place where I vommit thoughts.
+  Personal website/blog/place where I vommit my thoughts.
+  Feel free to hit me up!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -52,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+future: true
