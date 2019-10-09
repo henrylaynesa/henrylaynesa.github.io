@@ -24,12 +24,12 @@ Feel free to hit me up and talk about how we can help each other reach our goals
     <th class="tg-077p" colspan="2"><b>Others</b></th>
   </tr>
   <tr>
-    <td class="tg-077p"><img width="100px" height="100px" src="assets/svg/python.svg" alt="python"></td>
-    <td class="tg-077p"><img width="100px" height="100px" src="assets/svg/java.svg" alt="java"></td>
-    <td class="tg-077p"><img width="120px" height="120px" src="assets/svg/sklearn.svg" alt="sklearn"></td>
-    <td class="tg-077p"><img width="100px" height="100px" src="assets/svg/tensorflow.svg" alt="tensorflow"></td>
-    <td class="tg-077p"><img width="100px" height="100px" src="assets/svg/git-scm.svg" alt="git-scm"></td>
-    <td class="tg-077p"><img width="100px" height="100px" src="assets/svg/linux.svg" alt="linux"></td>
+    <td class="tg-077p"><img width="100px" height="100px" src="../assets/svg/python.svg" alt="python"></td>
+    <td class="tg-077p"><img width="100px" height="100px" src="../assets/svg/java.svg" alt="java"></td>
+    <td class="tg-077p"><img width="120px" height="120px" src="../assets/svg/sklearn.svg" alt="sklearn"></td>
+    <td class="tg-077p"><img width="100px" height="100px" src="../assets/svg/tensorflow.svg" alt="tensorflow"></td>
+    <td class="tg-077p"><img width="100px" height="100px" src="../assets/svg/git-scm.svg" alt="git-scm"></td>
+    <td class="tg-077p"><img width="100px" height="100px" src="../assets/svg/linux.svg" alt="linux"></td>
   </tr>
   <tr>
     <td class="tg-077p" colspan="2">My main development languages are Python and Java but I've worked with C, Ruby, and more.</td>
