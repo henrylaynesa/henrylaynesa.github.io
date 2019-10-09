@@ -44,4 +44,4 @@ I graduated from [University of the Philippines Diliman](https://upd.edu.ph/) in
 
 As someone who's generally curious about how and why things work and someone who's an ML nerd, I found data science to be both an interesting hobby and a solid career option! I took a bootcamp with [Eskwelabs](https://www.eskwelabs.com) as an Eskwelabs Data Science Fellow to complete my skillset in data science and to meet like-minded people.
 
-I've had an internship before as a Software Engineer Intern in [Azeus](https://www.azeus.com/). I mainly worked as a backend developer which made me comfortable with handling databases.
+I was also a Software Engineer Intern in [Azeus](https://www.azeus.com/). I mainly worked as a backend developer which made me comfortable with handling databases.

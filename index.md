@@ -11,4 +11,4 @@ layout: home
 
 I'm a Bachelor of Science in Computer Science fresh graduate from [University of the Philippines Diliman](https://upd.edu.ph/) looking to start a career in Data Science where I can apply my technical expertise in machine learning to create high-impact for social good.
 
-I'm mainly interested in machine learning, data science, and software engineering.
+I'm mainly interested in machine learning, data science, and software engineering!
