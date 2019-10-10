@@ -4,7 +4,6 @@ title: Blog Launch!
 category: life
 published: true
 author: Henry Laynesa Jr
-tags: [asdf, lol]
 ---
 
 **Hi and welcome to my first post!** :tada: :confetti_ball: :tada: :confetti_ball: :tada: :confetti_ball: 
