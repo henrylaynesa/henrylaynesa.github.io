@@ -11,7 +11,15 @@ Random thoughts and experiments to satisfy some curiosities. This is where I'll 
     <li>
         <article>
         	<h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-	        <p><h5>{{ post.date | date_to_string }}</h5></p>
+	        <p class="post-meta">
+		      <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+		        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+		        {{ post.date | date: date_format }}
+		      </time>
+		      {% if post.author %}
+		        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+		      {% endif %}
+		  	</p>
 	        <meta name="description" content="{{ post.summary | escape }}">
 	        <meta name="keywords" content="{{ post.tags | join: ', ' | escape }}"/>
 	    </article>
