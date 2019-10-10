@@ -4,7 +4,7 @@ title: Random
 permalink: /random/
 ---
 
-Random thoughts and experiments to satisfy some curiosities.
+Random thoughts and experiments to satisfy some curiosities. This is where I'll try to document specific lessons and insights I've picked up!
 
 <ul>
   {% for post in site.categories.random %}

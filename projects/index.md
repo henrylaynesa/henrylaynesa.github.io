@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Here are the projects I've worked on!
+Here are the projects I've worked on! I'm still working on some interesting stuff so stay tuned!
 
 <ul>
   {% for post in site.categories.projects %}

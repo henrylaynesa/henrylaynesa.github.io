@@ -4,7 +4,7 @@ title: Life
 permalink: /life/
 ---
 
-Reflections and realizations on some of the things I've encountered in my career.
+Reflections and realizations on my personal milestones with some storytelling and a sprinkle of opinions.
 
 <ul>
   {% for post in site.categories.life %}
