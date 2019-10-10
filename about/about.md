@@ -13,8 +13,8 @@ Feel free to hit me up and talk about how we can help each other reach our goals
 ## Tools
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border:0px solid #080808;}
-.tg td{font-family:"Segoe UI";font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:"Segoe UI";font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:black;}
+.tg td{font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-077p{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
@@ -44,4 +44,11 @@ I graduated from [University of the Philippines Diliman](https://upd.edu.ph/) in
 
 As someone who's generally curious about how and why things work and someone who's an ML nerd, I found data science to be both an interesting hobby and a solid career option! I took a bootcamp with [Eskwelabs](https://www.eskwelabs.com) as an Eskwelabs Data Science Fellow to complete my skillset in data science and to meet like-minded people.
 
-I was also a Software Engineer Intern in [Azeus](https://www.azeus.com/). I mainly worked as a backend developer which made me comfortable with handling databases.
+I was also a Software Engineer Intern at [Azeus](https://www.azeus.com/). I mainly worked as a backend developer which made me comfortable with handling databases.
+
+## Contact
+
+**Henry T. Laynesa Jr.**  
+Metro Manila, Philippines  
+Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>  
+Contact Number: (+63) 905 401 8948  
