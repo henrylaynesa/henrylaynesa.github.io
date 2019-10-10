@@ -19,6 +19,15 @@ Here are the projects I've worked on! I'm still working on some interesting stuf
 		      {% if post.author %}
 		        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
 		      {% endif %}
+		      {% if post.tags %}
+		      	• 
+		      	{% for tag in post.tags %}
+		      		{% if tag != post.tags.first %}
+		      			-
+		      		{% endif %}
+		      		<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><i>{{ tag }}</i></span></span>
+		      	{% endfor %}
+		      {% endif %}
 		  	</p>
 	        <meta name="description" content="{{ post.summary | escape }}">
 	        <meta name="keywords" content="{{ post.tags | join: ', ' | escape }}"/>

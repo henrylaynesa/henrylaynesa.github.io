@@ -19,6 +19,15 @@ Random thoughts and experiments to satisfy some curiosities. This is where I'll 
 		      {% if post.author %}
 		        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
 		      {% endif %}
+		      {% if post.tags %}
+		      	• 
+		      	{% for tag in post.tags %}
+		      		{% if tag != post.tags.first %}
+		      			-
+		      		{% endif %}
+		      		<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><i>{{ tag }}</i></span></span>
+		      	{% endfor %}
+		      {% endif %}
 		  	</p>
 	        <meta name="description" content="{{ post.summary | escape }}">
 	        <meta name="keywords" content="{{ post.tags | join: ', ' | escape }}"/>
