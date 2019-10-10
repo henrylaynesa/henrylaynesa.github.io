@@ -17,4 +17,8 @@ I made this blog because:
 - I wanted to try out web development again (even just for a little bit).
 - Having a personal website is cool :sunglasses:!
 
-I'll be honest I jumped in the bandwagon when everyone was making a GitHub page. :stuck_out_tongue_closed_eyes:
+I'll be honest, I slightly made a website on GitHub because I jumped in the bandwagon. I did learn that making one on Jekyll and github.io makes everything a lot easier! Having a blog on GitHub makes me focus working on my projects instead of handling the website. If you feel like making your own blog, I suggest making one on Jekyll the same way I did! It's intuitive and there are a lot of available plug-and-play templates available.
+
+I hope I'll be able to fill the blog out the more I gain more experience in my field. I'll try and be visible in my other accounts as well.
+
+**Cheers to a new beginning!**
