@@ -15,6 +15,7 @@ I made this blog because:
 - I want to improve my presence online and in the industry.
 - I'll be able to reach and collaborate with more people this way.
 - This shall serve as my portfolio!
+- I have a bad habit of not documenting my work properly. Having a blog to manage sort of forces me to document my code and work more! I try my best to make my code as readable as much as it is but sometimes if I just want it quick and dirty, I won't bother going back for it. Will work on it!
 - I wanted to try out web development again (even just for a little bit).
 - Having a personal website is cool :sunglasses:!
 
