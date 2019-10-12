@@ -16,16 +16,16 @@ Here are the projects I've worked on! I'm still working on some interesting stuf
 		        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
 		        {{ post.date | date: date_format }}
 		      </time>
-		      {% if post.author %}
+		      {% if post.author and post.show_author %}
 		        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
 		      {% endif %}
-		      {% if post.tags %}
+		      {% if post.tags and post.show_tags %}
 		      	• 
 		      	{% for tag in post.tags %}
 		      		{% if tag != post.tags.first %}
 		      			-
 		      		{% endif %}
-		      		<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><i>{{ tag }}</i></span></span>
+		      		<span itemprop="tag" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><i>{{ tag }}</i></span></span>
 		      	{% endfor %}
 		      {% endif %}
 		  	</p>

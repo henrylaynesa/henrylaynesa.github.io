@@ -4,6 +4,10 @@ title: Blog Launch!
 category: life
 published: true
 author: Henry Laynesa Jr
+summary: I started a blog to showcase my work.
+tags: [jekyll, github, github pages, portfolio, blog]
+show_author: false
+show_tags: false
 ---
 
 **Hi and welcome to my first post!** :tada: :confetti_ball: :tada: :confetti_ball: :tada: :confetti_ball: 
