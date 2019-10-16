@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float:left; object-fit: cover; border-radius:50%; margin: 8px 50px" width="200" height="200" src="assets/profile.png" alt="Profile">
+<img style="float:left; object-fit: cover; border-radius:200px; margin: 8px 50px;border:2px #8da9ca; border-style: dashed;" width="200" height="200" src="assets/profile.png" alt="Profile">
 
 <strong>Hi, I'm Henry</strong> and welcome to my blog!
 
